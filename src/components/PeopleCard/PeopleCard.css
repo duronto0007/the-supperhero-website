@@ -1,0 +1,24 @@
+.main-people{
+    position: relative;
+    height:450px;
+    background-color:rgb(202, 208, 216);
+    padding: 10px;
+    border-radius:10px ;
+    -webkit-border-radius:10px ;
+    -moz-border-radius:10px ;
+    -ms-border-radius:10px ;
+    -o-border-radius:10px ;
+}
+
+.main-people button{
+    height: 40px;
+    width: 100%;
+    background-color: #FF5842;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    border: none;
+    cursor: pointer;
+    color: whitesmoke;
+    font-size: 1rem;
+}

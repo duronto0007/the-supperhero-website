@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47d4de7637290765bce495%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1699%26cropX2%3D3845%26cropY1%3D559%26cropY2%3D2704",
+      "name": "Elon Musk",
+      "country": "United States",
+      "company": "Tesla, SpaceX",
+      "age": 50,
+      "salary": 200000000
+    },
+    {
+      "id": 2,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142",
+      "name": "Jeff Bezos",
+      "country": "United States",
+      "company": "Amazon",
+      "age": 57,
+      "salary": 1900000000
+    },
+    {
+      "id": 3,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dc05518ca425400079c659f%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4000%26cropY1%3D1209%26cropY2%3D5212",
+      "name": "Bernard Arnault & family",
+      "country": "France",
+      "company": "LVMH",
+      "age": 70,
+      "salary": 170000000
+    },
+    {
+      "id": 4,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ebe0c87612dab4f12a597%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D292%26cropX2%3D3684%26cropY1%3D592%26cropY2%3D3987",
+      "name": "Bill Gates",
+      "country": "United States",
+      "company": "Windows",
+      "age": 67,
+      "salary": 160000000
+    },
+    {
+      "id": 5,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b7d331358e35dd2773a9%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4401%26cropY1%3D0%26cropY2%3D4401",
+      "name": "Mark Zuckerberg",
+      "country": "United States",
+      "company": "Facebook",
+      "age": 37,
+      "salary": 150000000
+    },
+    {
+      "id": 6,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D227%26cropX2%3D2022%26cropY1%3D22%26cropY2%3D1817",
+      "name": "Larry Page",
+      "country": "United States",
+      "company": "Google",
+      "age": 48,
+      "salary": 1450000000
+    },
+    {
+      "id": 7,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b62cfc095010007bffea0%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4529%26cropY1%3D652%26cropY2%3D5184",
+      "name": "Larry Ellison",
+      "country": "United States",
+      "company": "Software",
+      "age": 77,
+      "salary": 140000000
+    },
+    {
+      "id": 8,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c7d7c254bbe6f78090d831f%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D475%26cropX2%3D2887%26cropY1%3D168%26cropY2%3D2582",
+      "name": "Sergey Brin",
+      "country": "United States",
+      "company": "Google",
+      "age": 48,
+      "salary": 1350000000
+    },
+    {
+      "id": 9,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5babb7f1a7ea4342a948b79a%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D748%26cropX2%3D3075%26cropY1%3D1753%26cropY2%3D4082",
+      "name": "Warren Buffett",
+      "country": "United States",
+      "company": "Berkshire Hathaway",
+      "age": 50,
+      "salary": 130000000
+    },
+    {
+      "id": 10,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c7d7829a7ea434b351ba0b6%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D206%26cropX2%3D2043%26cropY1%3D250%26cropY2%3D2089",
+      "name": "Mukesh Ambani",
+      "country": "India",
+      "company": "diversified",
+      "age": 60,
+      "salary": 120000000
+    },
+    {
+      "id": 11,
+      "img": "https://scontent.fcla2-1.fna.fbcdn.net/v/t1.6435-9/33663764_1055228197948590_8940174683769143296_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFoT-6NhFhjc43fhszSyvT8Ujvq31P1qA1SO-rfU_WoDeMkvHDh0p-RrKIx9Ggmh4Hla8FFvQKectd2T-RiOijV&_nc_ohc=WFbKu2LWY3cAX8lTt_b&tn=KEChfmksRVcwm4wC&_nc_ht=scontent.fcla2-1.fna&oh=6a6b2135e71fc7836eec5dd99153137e&oe=617629BC",
+      "name": "Duronto Hasib",
+      "country": "Bangladesh",
+      "company": "DuZon",
+      "age": 27,
+      "salary": 120000000
+    }
+  ]

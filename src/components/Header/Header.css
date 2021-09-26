@@ -1,0 +1,11 @@
+.header{
+    background-color: cadetblue;
+    border-radius: 15px;
+    padding: 10px;
+    color:black;
+    font-weight: bolder;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
